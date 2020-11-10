@@ -1,0 +1,14 @@
+[
+    {"id":"1","name":"Realme C15","price":"11500","product_img":"product-1.png"},
+    {"id":"2","name":"Realme C15 Qualcomm Edition","price":"12990","product_img":"product-2.jpg"},
+    {"id":"3","name":"Oppo K3","price":"24000","product_img":"product-3.jpg"},
+    {"id":"4","name":"Nokia 6.1 Plus","price":"27990","product_img":"product-4.jpg"},
+    {"id":"5","name":"OnePlus 2","price":"2999","product_img":"product-5.jpg"},
+    {"id":"6","name":"Nokia C1 Plus","price":"6000","product_img":"product-6.jpg"},
+    {"id":"7","name":"Xiaomi Mi 10 Ultra","price":"80000","product_img":"product-7.jpg"},
+    {"id":"8","name":"Oppo F17 Pro","price":"27990","product_img":"product-8.jpg"},
+    {"id":"9","name":"Nokia 7 Plus","price":"29990","product_img":"product-9.jpg"},
+    {"id":"10","name":"Google Pixel 3a","price":"34990","product_img":"product-10.jpg"},
+    {"id":"11","name":"Walton Primo F8s","price":"4899","product_img":"product-11.jpg"},
+    {"id":"12","name":"Lenovo K5 Play","price":"14990","product_img":"product-12.jpg"}
+]
